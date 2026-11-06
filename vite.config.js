@@ -1,2 +1,6 @@
+
 import { defineConfig } from 'vite';
-export default defineConfig({base: '/fxpivots/'});
+
+export default defineConfig({
+  base: '/fxpivots/'
+});
